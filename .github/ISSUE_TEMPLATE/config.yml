@@ -1,8 +1,24 @@
 
-blank_issues_enabled : true
+blank_issues_enabled : false
 
 contact_links:
 
--   about : Come talk on the FreeCAD Discord.
-    name : '🤝 𝗗𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻𝘀'
-    url : https://discord.gg/w2cTKGzccC
+-   about : Submit your addon for review.
+    name : 📤 𝗣𝘂𝗯𝗹𝗶𝘀𝗵
+    url : https://freecad.github.io/Addon-Academy/Guides/Publishing
+
+-   about : Join the community on our Discord.
+    name : 💬 𝗗𝗶𝘀𝗰𝗼𝗿𝗱
+    url : https://discord.gg/U52CaAQ7j3
+
+-   about : Join the community on our Forum.
+    name : 💬 𝗙𝗼𝗿𝘂𝗺
+    url : https://forum.freecad.org/viewforum.php?f=65
+
+-   about : Start building with our template.
+    name : 📦 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲
+    url : https://github.com/FreeCAD/Addon-Template
+
+-   about : Learn about addons in our academy.
+    name : 🎓 𝗔𝗰𝗮𝗱𝗲𝗺𝘆
+    url : https://github.com/FreeCAD/Addon-Academy
